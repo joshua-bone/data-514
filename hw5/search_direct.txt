@@ -1,0 +1,7 @@
+search "Seattle WA" "Dallas TX" 1 1 2
+quit
+*
+Itinerary 0: 1 flight(s), 217.0 minutes
+ID: 1034706 Date: 2015-7-1 Carrier: WN Number: 21 Origin: Seattle WA Dest: Dallas TX Duration: 217.0 Capacity: 6 Price: 206.58
+Goodbye
+*

@@ -1,0 +1,10 @@
+search "Seattle WA" "Dallas TX" 0 1 2
+quit
+*
+Itinerary 0: 1 flight(s), 217.0 minutes
+ID: 1034706 Date: 2015-7-1 Carrier: WN Number: 21 Origin: Seattle WA Dest: Dallas TX Duration: 217.0 Capacity: 6 Price: 206.58
+Itinerary 1: 2 flight(s), 194.5 minutes
+ID: 1034748 Date: 2015-7-1 Carrier: WN Number: 392 Origin: Seattle WA Dest: St. Louis MO Duration: 110.5 Capacity: 19 Price: 431.96
+ID: 1035052 Date: 2015-7-1 Carrier: WN Number: 4656 Origin: St. Louis MO Dest: Dallas TX Duration: 84.0 Capacity: 4 Price: 892.17
+Goodbye
+*
